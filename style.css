@@ -1,0 +1,135 @@
+.colornav {
+	background-color: lightgrey;
+	color: #212529;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+}
+
+.jumbotron{
+	background-color: white;
+	font-family: 'Roboto', sans-serif;
+	margin-top: 100px;
+}
+
+.textob{
+	font-size: 1.25rem;
+	font-weight: 300;
+}
+
+.footer{
+	background-color:  #73055A;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	padding: 20px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.donacion{
+	background-color: #4CAF50;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	padding: 20px;
+}
+
+
+.thumb {
+    display: block;
+	width: 100%;
+	margin: 0;
+}
+
+
+.by-author {
+	font-style: italic;
+	line-height: 1.3;
+	color: #aab6aa;
+}
+
+
+.featured-article {
+	width: 350px;
+	height: 200px;
+	position: relative;
+	margin-bottom: 1em;
+	overflow: hidden;
+}
+
+.featured-article .block-title {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	z-index: 1;
+	background: rgba(0,0,0,0.7);
+	padding: .5em;
+	width: 100%;
+	color: #fff;
+}
+
+.featured-article .block-title h2 {
+	margin: 0;
+}
+
+
+.main-list {
+	padding-left: .5em;
+}
+
+.main-list .media {
+	padding-bottom: 1.1em;
+	border-bottom: 1px solid #e8e8e8;
+}
+
+.tituloblog{
+	font-size: 40px;
+
+}
+
+.blog{
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.img{
+	width: 0 auto;
+	height: 100%;
+}
+
+.container-fluid, .jumbotron, .row{
+	font-family: 'Roboto', sans-serif;
+	padding: 20px;
+
+}
+
+.imgfl img{
+	width: 100%;
+	height: auto;
+	}
+
+.conblog{
+	padding: 20px;
+	background-color: lightcyan;
+}
